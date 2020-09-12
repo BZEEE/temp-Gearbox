@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bjzukows-GearBook</string>
+
+    <string name="back_button_text">back</string>
+    <string name="gear_item_number">Gear Item #</string>
+    <string name="enter_maker">enter maker</string>
+    <string name="enter_date">enter date</string>
+    <string name="enter_price">enter price</string>
+    <string name="enter_description">enter description</string>
+    <string name="enter_comment">enter comment</string>
+    <string name="add_button_text">Add</string>
+    <string name="update_button_text">Update</string>
+</resources>
